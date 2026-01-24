@@ -4,7 +4,7 @@
 
 **1º Jogo de Advinhação**
 
-    Um simples Jogo de adivinhação
+    Um simples Jogo de adivinhação, agora com numero de tentativas limitado(5)
 
 **2º Jo kem po**
 
