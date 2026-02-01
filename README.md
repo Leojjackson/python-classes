@@ -17,3 +17,8 @@
 **4º tratamento de Dados Simples**
 
     Com verificador de ano de nascimento, atribuido a um array(lista)
+
+**5º Verificador de  Maior e Menor em lista ilimitada de numeros**
+
+    Um programa muito simples que precisei de umas pesquisas para entender a lógica. mas que pode ser melhorado com o tempo
+    visto que eu entendi a lógica.
