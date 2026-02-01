@@ -1,6 +1,6 @@
 # Jogos e Apredizados realizados no Curso em video
 
-##  Resultados de aprendizados do curso "Curso de Python" Do "Curso em Video" do profº Gustavo guanabara.
+##  Resultados de aprendizados do Curso de Python. 
 
 **1º Jogo de Advinhação**
 
